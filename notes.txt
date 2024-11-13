@@ -1,0 +1,4 @@
+
+postgresql installer asked for password    elephant
+    note that the port is default 5432
+    
